@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array>
+		<string>/Users/Shared/at-action-park/pkg/create_vagrant-1.0.pkg</string>
+		<string>/Users/Shared/at-action-park/pkg/outset-2.0.0.pkg</string>
+		<string>/Users/Shared/at-action-park/pkg/vagrant-outset-20160122.pkg</string>
+		<string>/Users/Shared/at-action-park/pkg/setup-resistant-20160122.pkg</string>
+		<string>/Users/Shared/at-action-park/chef_client_versions/10.10/chef-12.9.41-1.pkg</string>
+	</array>
+	<key>ApplyUpdates</key>
+	<false/>
+	<key>SourcePath</key>
+	<string>/Applications/Install OS X Yosemite.app</string>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+	<key>VolumeName</key>
+	<string>MacHD</string>
+</dict>
+</plist>
